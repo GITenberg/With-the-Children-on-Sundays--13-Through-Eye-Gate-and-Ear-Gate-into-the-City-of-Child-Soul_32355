@@ -1,0 +1,37 @@
+_repo: With-the-Children-on-Sundays--13-Through-Eye-Gate-and-Ear-Gate-into-the-City-of-Child-Soul_32355
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Burd, C. M. (Clara Miller)
+    alias: Burd, Clara Miller
+    birthdate: 1873
+    deathdate: 1933
+    gutenberg_agent_id: '37845'
+    url: http://www.gutenberg.org/2009/agents/37845
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stall, Sylvanus
+    birthdate: 1847
+    deathdate: 1915
+    gutenberg_agent_id: '35803'
+    url: http://www.gutenberg.org/2009/agents/35803
+description: ''
+gutenberg_issued: '2010-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32355'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Moral education'
+- !lcsh 'Children -- Religious life'
+- !lcsh 'Children''s sermons'
+title: "With the Children on Sundays\r\nThrough Eye-Gate and Ear-Gate into the City\
+  \ of Child-Soul"
+url: http://www.gutenberg.org/ebooks/32355
